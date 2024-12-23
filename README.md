@@ -4,7 +4,6 @@ This project is a Prolog-based restaurant recommendation system with a graphical
 Features:
 Interactive GUI: User-friendly interface to input preferences and view results.
 Dynamic Recommendations: Retrieves matching restaurants based on user-selected criteria.
-Reset Functionality: Allows users to clear inputs and start a new search.
 Detailed Results: Displays restaurant names along with type, price, ambiance, and location.
 Technologies:
 Language: Prolog
